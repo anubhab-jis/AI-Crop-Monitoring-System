@@ -86,3 +86,4 @@ Project Status
 Experimental prototype
 License
 MIT
+App URL : https://farmiq-ai-agricultur-1mkw.bolt.host
